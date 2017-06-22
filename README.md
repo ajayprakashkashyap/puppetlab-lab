@@ -1,0 +1,2 @@
+# puppetlab-lab
+puppet example
